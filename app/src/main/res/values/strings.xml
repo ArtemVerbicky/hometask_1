@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">hometask_1</string>
+    <string name="happy">Happy</string>
+    <string name="sad">Sad</string>
+    <string name="angry">Angry</string>
+    <string name="another_mood">Something different</string>
+    <string name="choose_mood_text_value">Choose your current mood</string>
+    <string name="edit_text_hint">Sooooo?</string>
+    <string name="dialog_title">How are you, friend?</string>
+    <string name="positive_button_text">Accept</string>
+    <string name="negative_button_text">Decline</string>
+    <string name="default_message_to_the_world">Hope you fine!</string>
+    <string name="something_goes_wrong">Something goes wrong!</string>
 </resources>
